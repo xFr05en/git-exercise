@@ -1,4 +1,5 @@
 # Git Core Exercise
 
 ## Reflection
-I learned a lot about Git workflows...
+I had learned how to use git when I was a freshman, but have not used it since. Since it has been 3 years since I have used git
+I have forgotten all the basic commands and functions of git. I know how important knowing how to use git and github is, so I will try to practice and get better at it. Through this exercise I became familiar again with Git's core features and GitHub’s collaboration tools. I began by setting up a new repository on GitHub and cloning it to my local machine. Creating a README.md file, I relearned how to stage changes with git add, commit them with git commit, and push them to the main branch using git push. These steps, though simple, felt rusty at first, but practicing them reignited my familiarity. To dive deeper, I created a dev branch with git checkout -b dev, made edits, committed them, and pushed the branch to GitHub. Opening a pull request to merge dev into main introduced me to GitHub’s collaborative workflow, reminding me how pull requests facilitate code reviews. This process wasn’t just about refreshing my memory; it rebuilt my confidence in using Git for version control. I now recognize again its value in organizing projects and collaborating effectively.
